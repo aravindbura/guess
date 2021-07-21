@@ -47,6 +47,8 @@ while True:
         else:
             print('COLDER!')
    
+
+
     else:
         if abs(num-guess) <= 10:
             print('WARM!')
