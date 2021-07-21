@@ -2,6 +2,9 @@ import random
 
 num = random.randint(1,100)
 
+
+
+
 print("WELCOME TO GUESS ME!")
 print("I'm thinking of a number between 1 and 100")
 print("If your guess is more than 10 away from my number, I'll tell you you're COLD")
